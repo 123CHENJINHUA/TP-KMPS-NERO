@@ -1,0 +1,12 @@
+{
+  "description": "仅为格式示例。必须用真实机械臂当前法兰位姿替换，不可直接用于标定。",
+  "translation_unit": "m",
+  "parent_frame": "base",
+  "child_frame": "flange",
+  "T_base_flange": [
+    [1, 0, 0, 0.30],
+    [0, 1, 0, 0.00],
+    [0, 0, 1, 0.40],
+    [0, 0, 0, 1]
+  ]
+}

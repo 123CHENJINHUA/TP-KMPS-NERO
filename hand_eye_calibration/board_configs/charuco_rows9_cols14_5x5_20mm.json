@@ -1,0 +1,9 @@
+{
+  "squares_x": 14,
+  "squares_y": 9,
+  "square_length_m": 0.02,
+  "marker_length_m": 0.015,
+  "dictionary": "DICT_5X5_100",
+  "legacy_pattern": false,
+  "marker_ids": null
+}

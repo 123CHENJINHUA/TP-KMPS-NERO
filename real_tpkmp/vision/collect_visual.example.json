@@ -1,0 +1,9 @@
+{
+  "object": "real_tpkmp/vision/objects/keel.json",
+  "hand_eye": "hand_eye_calibration/datasets/填写当前相机有效标定目录/result.json",
+  "grasp": "real_tpkmp/vision/runs/填写参考定位目录/keel_grasp.json",
+  "intrinsics": null,
+  "frames": 3,
+  "mask_method": "box",
+  "iterations": 5
+}

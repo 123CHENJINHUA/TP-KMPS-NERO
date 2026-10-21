@@ -1,0 +1,19 @@
+{
+  "scene": "/home/cjh/Downloads/TP-KMPs-nero-isaacsim/assets/scenes/0928_grasp.usd",
+  "mass_kg": 0.08,
+  "mass_is_assumed": true,
+  "initial_position_m": [
+    -0.3427712917327881,
+    0.005514470860362053,
+    0.5368751287460327
+  ],
+  "final_position_m": [
+    -0.3427712023258209,
+    0.005514466669410467,
+    0.507240355014801
+  ],
+  "fall_distance_m": 0.02963477373123169,
+  "table_top_z_m": 0.4852403068570478,
+  "object_bottom_z_m": 0.48524036800713477,
+  "settled_on_table": true
+}

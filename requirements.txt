@@ -1,0 +1,6 @@
+# Algorithm environment; ROS commands use Ubuntu's /usr/bin/python3 separately.
+numpy>=1.23,<3
+scipy>=1.8,<2
+scikit-learn>=1.0,<2
+matplotlib>=3.5,<4
+seaborn>=0.12,<1

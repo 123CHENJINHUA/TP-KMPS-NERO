@@ -1,0 +1,42 @@
+{
+  "resolution": [
+    640,
+    480
+  ],
+  "focal_length_mm": 18.0,
+  "horizontal_aperture_mm": 20.955,
+  "clipping_range_m": [
+    0.01,
+    10.0
+  ],
+  "left": {
+    "translation_m": [
+      0.09,
+      0.0,
+      0.02
+    ],
+    "rotation_xyz_deg": [
+      150.0,
+      0.0,
+      90.0
+    ]
+  },
+  "right": {
+    "translation_m": [
+      0.09,
+      0.0,
+      0.02
+    ],
+    "rotation_xyz_deg": [
+      150.0,
+      0.0,
+      90.0
+    ]
+  },
+  "extra_cameras": [],
+  "visualization": {
+    "show_body": true,
+    "show_axes": true,
+    "axis_length_m": 0.08
+  }
+}

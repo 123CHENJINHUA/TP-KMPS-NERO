@@ -1,0 +1,29 @@
+{
+  "name": "keel",
+  "asset": "keel_grasp.usda",
+  "mass_kg": 0.08,
+  "grip_width_m": 0.038,
+  "origin_height_m": 0.022,
+  "extent_m": [
+    0.15,
+    0.098,
+    0.023
+  ],
+  "table_size_xy_m": [
+    0.24,
+    0.22
+  ],
+  "source_scale_to_m": 0.001,
+  "source_grasp_point": [
+    75.0,
+    49.0,
+    22.0
+  ],
+  "source_sha256": {
+    "keel.STL": "6e9886b571c2489f1035b0dcf476af2c7efae5febea363398ecd77e6ea79f0f3",
+    "keel.usd": "a00fb3b09e2b1d4071e72c28b1750089fef4ed110026330ae8cbed164d2f82cb"
+  },
+  "assumptions": "Dimensions confirmed by user: 150 x 98 x 23 mm. Simulated mass 80 g, not a measured mass. Source USD centimeter metadata is not used for the derived collision asset.",
+  "source_units": "mm",
+  "units_confirmed_by_user": true
+}

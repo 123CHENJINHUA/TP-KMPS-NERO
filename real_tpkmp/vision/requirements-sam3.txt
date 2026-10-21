@@ -1,0 +1,9 @@
+# Extra imports needed by the installed SAM3 image/video module tree.
+# torch/torchvision/timm/tokenizer dependencies are reused from qwen-sam3.
+numpy>=1.26,<2
+psutil
+scipy>=1.10,<1.16
+opencv-python>=4.8,<4.12
+einops
+pycocotools
+decord

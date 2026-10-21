@@ -1,0 +1,7 @@
+.cache/
+datasets/
+# Only learned TP-KMP models; vision/models contains required CAD assets.
+/models/
+runs/
+offline_check/
+__pycache__/

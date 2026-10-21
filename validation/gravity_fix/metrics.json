@@ -1,0 +1,12 @@
+{
+  "samples": 121,
+  "position_rmse_m": 0.0005425032577915544,
+  "position_max_m": 0.0007916161596126651,
+  "position_final_m": 0.0004410314269417485,
+  "angle_rmse_rad": 0.0018428207928916718,
+  "angle_max_rad": 0.010150897321244025,
+  "angle_final_rad": 0.0012668166127548716,
+  "position_tolerance_m": 0.01,
+  "angle_tolerance_rad": 0.1,
+  "passed": true
+}

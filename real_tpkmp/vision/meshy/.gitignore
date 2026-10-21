@@ -1,0 +1,6 @@
+images/*
+!images/README.md
+jobs/
+downloads/*
+!downloads/README.md
+__pycache__/

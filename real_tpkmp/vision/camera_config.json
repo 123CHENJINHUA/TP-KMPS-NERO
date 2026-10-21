@@ -1,0 +1,30 @@
+{
+  "serial": "213522070575",
+  "width": 1280,
+  "height": 720,
+  "fps": 30,
+  "intrinsics": {
+    "K": [
+      [908.9584350585938, 0, 644.2276000976562],
+      [0, 907.06689453125, 364.3040771484375],
+      [0, 0, 1]
+    ],
+    "distortion_model": "none",
+    "distortion_coefficients": [0, 0, 0, 0, 0]
+  },
+  "hand_eye": {
+    "mode": "eye-in-hand",
+    "matrix": [
+      [null, null, null, null],
+      [null, null, null, null],
+      [null, null, null, null],
+      [0, 0, 0, 1]
+    ],
+    "passed": false
+  },
+  "object_id": "keel",
+  "grasp": null,
+  "frames": 3,
+  "mask_method": "box",
+  "iterations": 5
+}
